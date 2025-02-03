@@ -5,4 +5,7 @@ LAB01
   For this lab, I made a realistic model of a mealworm beetle. There was no sculpting and it was all done with hard modeling. I constantly worked between a smooth and unsmoothed version to make sure the topology looked nice but it also looked good smoothed. 
 
 LAB02
-  For this lab, I used my rig of Tom from Tom and Jerry that has a fully fleshed out RK system with limb stretch and limb twist as well as fully functional feet.
+  For this lab, I used my rig of Tom from Tom and Jerry which has a fully fleshed out RK system with limb stretch and limb twist as well as fully functional feet.
+
+LAB03
+  FOr this lab, I used my robot model from my sophomore year and rendered it in maya with red and blue lights to make a cool shading effect.
